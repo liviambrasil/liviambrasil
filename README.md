@@ -27,7 +27,7 @@
   
 <h2>🤝&nbsp; Connect with Me</h2>
 
-<a  href="https://www.linkedin.com/in/www.linkedin.com/in/liviambrasil/"><img height="20em" alt="LinkedIn"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"></a>
+<a  href="https://www.linkedin.com/in/liviambrasil/"><img height="20em" alt="LinkedIn"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"></a>
 
 
 <a  href="mailto:liviabrasil@id.uff.br"><img height="30em" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a>
