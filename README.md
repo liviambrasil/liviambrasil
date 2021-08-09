@@ -7,15 +7,21 @@
 <h2 />
 <h3>🌐 &nbsp; Web Technologies<h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)&nbsp;![postgresSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![postgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h3>⚙️&nbsp; Version Control Tools</h3>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <h3>🔧&nbsp; Development Tools</h3>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
   
 <h2 />  
@@ -27,6 +33,8 @@
   
 <h2>🤝&nbsp; Connect with Me</h2>
 
-<a  href="https://www.linkedin.com/in/liviambrasil/"><img height="20em" alt="LinkedIn"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"></a>
-  
-<a  href="mailto:liviamachadobrasil@gmail.com"><img height="25em" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a>
+[<img align="left" alt="holisitc_developer | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+[linkedin]: https://www.linkedin.com/in/liviambrasil/
+[email]: mailto:liviamachadobrasil@gmail.com
