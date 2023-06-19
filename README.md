@@ -1,6 +1,5 @@
 <h1> Hi there! </h1>
 
-<h2 />
 <h3>Web Technologies<h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
