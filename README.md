@@ -1,11 +1,5 @@
 <h1> Hi there! </h1>
 
-### About me 
-- 🌱 I’m currently learning typescript and typeORM
-- 💬 Ask me about anything, I love chatting
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: One of my favorite hobbies is to turn upside down in yoga 
-
 <h2 />
 <h3>Web Technologies<h3>
 
